@@ -7,6 +7,8 @@ public class Sample1Test {
 	public void create1Test()
 	{
 		System.out.println("tc pass");
+	        System.out.println("tc1 passs");
+
 	}
 
 }
